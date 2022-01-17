@@ -1,3 +1,7 @@
 [submodule "themes/hugo-creative-portfolio-theme"]
 	path = themes/hugo-creative-portfolio-theme
 	url = git@github.com:swillasnomads/hugo-creative-portfolio-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/swillasnomads/swillasnomads.github.io.git
+	branch = gh-pages
