@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
   sidebarAbout = [
-    "TODO.",
+    "TODO test.",
     "TODO."
   ]
   # Contact page
