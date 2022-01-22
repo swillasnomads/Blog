@@ -1,5 +1,5 @@
 baseURL = "https://swillasnomads.github.io./"
-title = "Sam and Will as nomads blog"
+title = "Sam and Will as Nomads"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en"
 # Enable comments by entering your Disqus shortname
@@ -10,12 +10,12 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "sea"
-  description = "Describe your website"
-  copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+  style = "pink"
+  description = "Sam and Will nomad diary"
+  copyright = "CC BY-NC-SA 4.0"
   sidebarAbout = [
-    "TODO test.",
-    "TODO."
+    "Taking a break from the grind. Pause du stess quotidien.",
+    "Découvrez notre journal virtuel. Checkout our virtual journal."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "swillasnomads@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -43,7 +43,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "portfolio/"
+  url = "posts/"
   home = true
 
   [[params.navlinks]]
@@ -51,7 +51,7 @@ googleAnalytics = ""
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Keep me in the loop"
   url = "contact/"
 
   [params.social]

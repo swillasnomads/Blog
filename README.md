@@ -17,3 +17,5 @@ To test locally, simply run:
 ```sh
 hugo server -D
 ```
+
+Publishing changes is done by GitHub Actions. As long as the changes are present in the main branch, deploying the changes will be done automatically.
