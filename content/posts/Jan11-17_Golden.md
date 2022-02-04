@@ -1,7 +1,7 @@
 ---
 weight: 2
 showonlyimage: false
-image: "/img/Jan7-17/peak.jpg"
+image: "/img/Jan11-17/peak.jpg"
 date: "2022-01-20T19:41:01+05:30"
 title: "Jan 7-17: Kicking Horse, Golden, BC"
 resources:
