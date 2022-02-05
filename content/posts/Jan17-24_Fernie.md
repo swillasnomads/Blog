@@ -43,13 +43,13 @@ That night, after some flight difficulty, my parents arrived from Ottawa to join
 
 #### January 19th: Dad’s Birthday
 
-The 19th was our first full full day of skiing - i.e. from open until last lift. It was a beautiful blue bird day. We found a run we enjoyed and lapped it in the morning before venturing off into different terrain. I rode a T-Bar for the first time and had to be told not to sit on it :shrug. We had delicious fries for lunch (thanks Dad!). 
+The 19th was our first full full day of skiing - i.e. from open until last lift. It was a beautiful blue bird day. We found a run we enjoyed and lapped it in the morning before venturing off into different terrain. I rode a T-Bar for the first time and had to be told not to sit on it 🤷🏼‍♀️ and we had delicious fries for lunch (thanks Dad!). 
 
 {{< figure src="/img/Jan17-24/tbar.jpg" >}}
 &nbsp;
 &nbsp;
 
-And since the day was so beautiful we had to stop for a pitcher of beer at the Lost Boys lodge at the top of the mountain, and yes I said we, I was forced to also drink some beer, in honour of my father bday, and yes, I regret it. 
+And since the day was so beautiful we had to stop for a pitcher of beer at the Lost Boys lodge at the top of the mountain, and yes I said we, I was forced to also drink some beer, in honour of my father's bday, and yes, I regret it. 
 
 {{< figure src="/img/Jan17-24/dad_sam_squat.jpg" >}}
 &nbsp;
