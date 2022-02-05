@@ -1,6 +1,6 @@
 ---
-weight: 2
-showonlyimage: true
+weight: 398
+showonlyimage: false
 image: "/img/Jan11-17/peak.jpg"
 date: "2022-01-20T19:41:01+05:30"
 title: "Jan 7-17: Golden, BC"

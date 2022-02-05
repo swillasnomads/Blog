@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 397
 showonlyimage: false
 image: "/img/Jan17-24/family_pic.jpg"
 date: "2022-01-20T19:41:01+05:30"
@@ -13,6 +13,10 @@ resources:
     - src: "/img/Jan17-24/sam_house.jpg"
     - src: "/img/Jan17-24/artsy.jpg"
     - src: "/img/Jan17-24/betty_photoshoot.jpg"
+    - src: "/img/Jan17-24/nolan_fam_ski.jpeg"
+    - src: "/img/Jan17-24/catan2.jpeg"
+    - src: "/img/Jan17-24/sam_fam_ski.jpeg"
+    
 
 draft: false
 ---
@@ -94,6 +98,10 @@ Saturday was a proper family day, rest in the morning, long walk in the afternoo
 &nbsp;
 &nbsp;
 
+{{< figure src="/img/Jan17-24/hike.jpeg" >}}
+&nbsp;
+&nbsp;
+
 [video to come]
 
 The large family dinner was a smoked turkey that spent all day in the smoker. It was incredibly delicious, flavorful and moist, with what I must admit were the best sides I’ve ever had, lemon cauliflower rice and homemade caesar salad (both recipes we stole). 
@@ -106,6 +114,8 @@ The large family dinner was a smoked turkey that spent all day in the smoker. It
 
 With the majority of the family (parents, aunt and uncle) on their way back home, Will and I stuck around one more day to ski with Penelope, Mat & Nolan. The conditions were definitely not the best, but we made the most of the day, had another tailgate lunch, an after ski hot tub and a leftover diner! 
 
+{{< figure src="/img/Jan17-24/Wills_run.jpeg" >}}
+&nbsp;
 #### January 24th: Drive to Red Mountain
 
 We had planned to leave on Monday morning to get to our next destination in Rossland, BC at a reasonable time (~4hours away), but it had been a week since Betty had complained and so she decided to throw us a fit. There we are ready to leave Fernie, finally get out of my cousin’s hair and our car won’t start, the battery seems dead. Thankfully for us, we were able to bug Mat who was working from home to diagnose our battery troubles, ensure it wasn’t our starter and give us a full new charge. 
@@ -117,9 +127,9 @@ We had planned to leave on Monday morning to get to our next destination in Ross
 
 #### Fernie Recommendations: 
 * **Fernie Brewery** 
-* **Distillery** - really fun cocktail bar 
+* **Distillery** - really fun cocktail bar, would recommend a drink with Fernie Fog (bought myself a bottle)
 * **Lunch Box** - fresh wraps, salads and curries 
-* Pizza place - name to be added 
+* **Funky Goat Pizza** - All pizzas were amazing but mushroom head is a must try!
 
 
 
