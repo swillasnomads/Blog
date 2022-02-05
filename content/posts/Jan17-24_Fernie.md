@@ -51,11 +51,15 @@ The 19th was our first full full day of skiing - i.e. from open until last lift.
 
 And since the day was so beautiful we had to stop for a pitcher of beer at the Lost Boys lodge at the top of the mountain, and yes I said we, I was forced to also drink some beer, in honour of my father's bday, and yes, I regret it. 
 
+{{< youtube fHw6pXPARy8 >}}
+&nbsp;
+
+
+The day was warmly concluded with a soak in the hottub where Nolan peer pressured almost everyone into jumping in the snow at some point or another, where we repeatedly saw how hard packed the snow really was. Needless to say, my dad’s snow angel didn’t really come out. We concluded the day with a stop at the Fernie Brewery (Do you see a trend emerging in our pit stops yet?). It was an activity filled day. 
+
 {{< figure src="/img/Jan17-24/dad_sam_squat.jpg" >}}
 &nbsp;
 &nbsp;
-
-The day was warmly concluded with a soak in the hottub where Nolan peer pressured almost everyone into jumping in the snow at some point or another, where we repeatedly saw how hard packed the snow really was. Needless to say, my dad’s snow angel didn’t really come out. We concluded the day with a stop at the Fernie Brewery (Do you see a trend emerging in our pit stops yet?). It was an activity filled day. 
 
 
 #### January 20th: Extreme Cross Country Skiing - a story
@@ -94,6 +98,10 @@ The day unwinded with another hot tub, Will teaching Mat and Nolan how to play C
 
 Saturday was a proper family day, rest in the morning, long walk in the afternoon, massif dinner in the evening. Catan was played again (Mat won this time). Our afternoon walk/hike in the afternoon was right in Penelope and Mat’s backyard. We brought toboggans in case we came across fun slopes. And fun was definitely had on the toboggans! 
 
+
+{{< youtube K9zqNiWJnto >}}
+&nbsp;
+
 {{< figure src="/img/Jan17-24/will_sam_hike.jpg" >}}
 &nbsp;
 &nbsp;
@@ -102,7 +110,6 @@ Saturday was a proper family day, rest in the morning, long walk in the afternoo
 &nbsp;
 &nbsp;
 
-[video to come]
 
 The large family dinner was a smoked turkey that spent all day in the smoker. It was incredibly delicious, flavorful and moist, with what I must admit were the best sides I’ve ever had, lemon cauliflower rice and homemade caesar salad (both recipes we stole). 
 
