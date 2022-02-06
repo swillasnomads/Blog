@@ -15,8 +15,8 @@ resources:
     - src: "/img/Jan17-24/betty_photoshoot.jpg"
     - src: "/img/Jan17-24/nolan_fam_ski.jpeg"
     - src: "/img/Jan17-24/catan2.jpeg"
-    - src: "/img/Jan17-24/sam_fam_ski.jpeg"
     - src: "/img/Jan17-24/eating.jpg"
+    - src: "/img/Jan17-24/sam_fam_ski.jpeg"
     
 
 draft: false
