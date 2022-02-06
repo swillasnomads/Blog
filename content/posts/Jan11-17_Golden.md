@@ -3,7 +3,7 @@ weight: 398
 showonlyimage: false
 image: "/img/Jan11-17/peak.jpg"
 date: "2022-01-20T19:41:01+05:30"
-title: "Jan 7-17: Golden, BC"
+title: "Jan 11-17: Golden, BC"
 resources:
     - src: "/img/Jan11-17/peak.jpg"
     - src: "/img/Jan11-17/Will_Chair.jpg"

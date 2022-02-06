@@ -16,6 +16,7 @@ resources:
     - src: "/img/Jan17-24/nolan_fam_ski.jpeg"
     - src: "/img/Jan17-24/catan2.jpeg"
     - src: "/img/Jan17-24/sam_fam_ski.jpeg"
+    - src: "/img/Jan17-24/eating.jpg"
     
 
 draft: false
@@ -137,6 +138,7 @@ We had planned to leave on Monday morning to get to our next destination in Ross
 * **Distillery** - really fun cocktail bar, would recommend a drink with Fernie Fog (bought myself a bottle)
 * **Lunch Box** - fresh wraps, salads and curries 
 * **Funky Goat Pizza** - All pizzas were amazing but mushroom head is a must try!
+* **Le Bon Pain** - Lovely french bakery with delicious sesame sourdough 
 
 
 
