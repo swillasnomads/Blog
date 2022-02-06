@@ -12,7 +12,7 @@ resources:
     - src: "/img/Jan17-24/will_sam_hill.jpg"
     - src: "/img/Jan17-24/sam_house.jpg"
     - src: "/img/Jan17-24/artsy.jpg"
-    - src: "/img/Jan17-24/betty_photoshoot.jpg"
+    # - src: "/img/Jan17-24/betty_photoshoot.jpg"
     - src: "/img/Jan17-24/nolan_fam_ski.jpeg"
     - src: "/img/Jan17-24/catan2.jpeg"
     - src: "/img/Jan17-24/eating.jpg"
@@ -140,6 +140,5 @@ We had planned to leave on Monday morning to get to our next destination in Ross
 * **Funky Goat Pizza** - All pizzas were amazing but mushroom head is a must try!
 * **Le Bon Pain** - Lovely french bakery with delicious sesame sourdough 
 
-
-
+{{< figure src="/img/Jan17-24/betty_photoshoot.jpg" >}}
 
