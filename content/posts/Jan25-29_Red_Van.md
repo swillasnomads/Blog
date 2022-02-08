@@ -35,7 +35,7 @@ Besides falling daily while skiing we really did have a blast exploring Red, get
 {{< figure src="/img/Jan25-29/mariposa.jpg" >}} 
 &nbsp;
 
-I would be remiss if I didn’t mention the abundance of delicious food Will and I consumed, the home made goods were unparalleled (bread, brownies, cookies, mousse, granola bars), we had to steal the recipe for Margie’s delicious granola bars. 
+I would be remiss if I didn’t mention the abundance of delicious food Will and I consumed, the home made goods were unparalleled (bread, brownies, cookies, mousse, granola bars and sundried tomato hummus), we had to steal the recipe for Margie’s delicious granola bars & I hope to one day recreate the hummus, our sandwiches will never be the same. 
 
 A picture of us eating our last bars in a long line at Whistler: 
 {{< figure src="/img/Jan25-29/granolabars.jpeg" >}} 
