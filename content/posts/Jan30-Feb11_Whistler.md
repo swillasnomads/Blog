@@ -66,7 +66,7 @@ Crokinole, a table disk throwing game that came with our airbnb became a feature
 
 Alex is our friend from Capital One who’s vacation out west overlapped with our last week in Whistler. His first day skiing, he spotted our jackets on the hill and pulled me aside with an “Excuse me Ma'am”, I was surprised anyone was calling me Ma’am. In retrospect, Alex spotting us was an incredibly lucky event given how large the mountain is. From there we made plans to grab drinks later in the week where we played Crokinole and we followed that up with a half day on the slopes skiing a sheet of ice (more on that later). 
 
-{{< figure src="/img/Jan30-Feb11/alex_4.jpeg" >}} 
+{{< figure src="/img/Jan30-Feb11/alex_4.jpg" >}} 
 &nbsp;
 
 
