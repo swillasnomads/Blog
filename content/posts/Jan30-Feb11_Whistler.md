@@ -59,9 +59,14 @@ For the remainder of our Whistler stay we imposed ourselves on Will’s long tim
 &nbsp;
 
 
-Crokinole, a table disk throwing game that came with our airbnb became a feature of our social interactions. We played multiple rounds with Sawyer and Tony and we were also able to rope in both Alex and Rebecca into playing with us too. Alex is our friend from Capital One who’s vacation out west overlapped with our last week in Whistler. His first day skiing, he spotted our jackets on the hill and pulled me aside with an “Excuse me Ma'am”, I was surprised anyone was calling me Ma’am. In retrospect, Alex spotting us was an incredibly lucky event given how large the mountain is. From there we made plans to grab drinks later in the week where we played Crokinole and we followed that up with a half day on the slopes skiing a sheet of ice (more on that later). 
+Crokinole, a table disk throwing game that came with our airbnb became a feature of our social interactions. We played multiple rounds with Sawyer and Tony and we were also able to rope in both Alex and Rebecca into playing with us too.
 
 {{< figure src="/img/Jan30-Feb11/alex.jpg" >}} 
+&nbsp;
+
+Alex is our friend from Capital One who’s vacation out west overlapped with our last week in Whistler. His first day skiing, he spotted our jackets on the hill and pulled me aside with an “Excuse me Ma'am”, I was surprised anyone was calling me Ma’am. In retrospect, Alex spotting us was an incredibly lucky event given how large the mountain is. From there we made plans to grab drinks later in the week where we played Crokinole and we followed that up with a half day on the slopes skiing a sheet of ice (more on that later). 
+
+{{< figure src="/img/Jan30-Feb11/alex_4.jpeg" >}} 
 &nbsp;
 
 
