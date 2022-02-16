@@ -118,7 +118,7 @@ The first picture was taken moments after entering our condo, so only really a f
 
 
 
-### Recommendations 
+### Whistler Recommendations: 
 * **Samurai Bowl**: The poke bowls were amazing and the Korean fried chicken was also incredibly good. 
 * **BReD**: Only serves organic sourdough products, and the bread loaves really were the best we’ve come across so far. Though I wouldn’t recommend their cinnamon buns.  
 
