@@ -1,7 +1,7 @@
 ---
 weight: 400
 showonlyimage: false
-image: "/img/Jan6-10/packed_car.jpg"
+image: "/img/Jan6-10/packed_car_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
 title: "Jan 6-10: Driving Out"
 resources:

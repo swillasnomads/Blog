@@ -1,7 +1,7 @@
 ---
 weight: 393
 showonlyimage: false
-image: "/img/Jan30-Feb11/ice_cave.jpg"
+image: "/img/Jan30-Feb11/ice_cave_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
 title: "Jan 30-Feb 11: Whistler, BC"
 resources:

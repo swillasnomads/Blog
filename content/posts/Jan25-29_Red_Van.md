@@ -1,7 +1,7 @@
 ---
 weight: 395
 showonlyimage: false
-image: "/img/Jan25-29/sam_will_red.jpg"
+image: "/img/Jan25-29/sam_will_red_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
 title: "Jan 25-29: Rossland, BC & Vancouver "
 resources:

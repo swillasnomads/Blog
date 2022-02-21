@@ -1,7 +1,7 @@
 ---
 weight: 397
 showonlyimage: false
-image: "/img/Jan17-24/family_pic.jpg"
+image: "/img/Jan17-24/family_pic_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
 title: "Jan 18-24: Fernie, BC"
 resources:
