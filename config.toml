@@ -51,7 +51,7 @@ googleAnalytics = ""
   url = "about/"
 
   [[params.navlinks]]
-  name = "Keep me in the loop"
+  name = "Add me to your mailing list!"
   url = "contact/"
 
   [params.social]
