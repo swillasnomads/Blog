@@ -23,7 +23,7 @@ resources:
 draft: false
 ---
 
-# Post 9: Converging in Colorado
+# Post 10: Converging in Colorado
 
 We wrapped up the ski season in Colorado, with 4 final mountains: Beaver Creek, Breckenridge, Keystone and a little known resort called Vail. 
 {{< figure src="/img/Mar5-17/will_jump.jpg" >}} 
