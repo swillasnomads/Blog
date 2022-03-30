@@ -21,7 +21,7 @@ draft: false
 
 # Post 9: Utah Rocks!
 
-Though I do hope some people enjoy reading these (often long) blog posts, I will try and keep this one short and encourage everyone to go watch the video Will (will) compiled. It gives a much better idea of the beauty and thrill of these parks. Especially given that describing these trails in words is beyond my artistic ability. 
+Though I do hope some people enjoy reading these (often long) blog posts, I will try and keep this one short and encourage everyone to go watch the video Will compiled. It gives a much better idea of the beauty and thrill of these parks. Especially given that describing these trails in words is beyond my artistic ability. 
 
 ### Zion National Park
 
