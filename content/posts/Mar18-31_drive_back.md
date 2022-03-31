@@ -95,7 +95,7 @@ We did go to Okemo on the 25th, we showed up at noon, did exactly 2.5 runs and l
 {{< figure src="/img/Mar18-31/okemo.jpg" >}} 
 &nbsp;
 
-That night we were being joined by our close friend Jordan, his partner Chelsea and their 2 friends Issac and Anna. We were meant to ski Killington the next day. However, after my Okemo experience on the Friday, I was not so sure I would be participating in any more water skiing. 
+That night we were being joined by our close friend Jordan, his partner Chelsea and their 2 friends Isaac and Anna. We were meant to ski Killington the next day. However, after my Okemo experience on the Friday, I was not so sure I would be participating in any more water skiing. 
 
 Ultimately the decision was out of our hands. Will got to the airbnb on Friday afternoon and had a worsening tickle in his throat. We all know where this is going. 
 
