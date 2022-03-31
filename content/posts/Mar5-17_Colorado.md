@@ -88,7 +88,6 @@ We can not wait to come visit you both in Montréal.
 &nbsp;
 
 
-
 ### Colorado Part 3: Family in Vail 
 
 As soon as Emika and Yannis were gone, we were joined in Colorado by Will’s parents, Andrea and Erik. We took one day off skiing before finishing our time in Colorado with 3 days at Vail. 
@@ -114,7 +113,8 @@ Erik joined us for the best two days out of the three we were skiing. One beauti
 We took the opportunity with Will’s parents to explore Vail village, get some ice cream, buy a postcard and enjoy a few meals out - thank you both again so much. I would also be remiss if I didn’t mention and thank you for the two large blocks of cheese you left with us, which we are still eating to this day! 
 
 
-
+{{< figure src="/img/Mar5-17/will_family_selfie.jpg" >}} 
+&nbsp;
 
 
 
