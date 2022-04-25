@@ -52,7 +52,7 @@ Our first day in Sydney. we went on an epic walking adventure, we toured the liv
 {{< figure src="/img/Apr13-19/sam_opera.jpg" >}} 
 &nbsp;
 
-Val and Johnny left us their apartment when they left for an easter weekend to the Blue Mountains, and we can not thank them enough. The apartment is beautiful and with public transportation free for Easter weekend, Will and I made the most of it to tour the city. 
+Val and Johnny left us their apartment when they left for an Easter weekend to the Blue Mountains, and we can not thank them enough. The apartment is beautiful and with public transportation free for Easter weekend, Will and I made the most of it to tour the city. 
 
 {{< figure src="/img/Apr13-19/b_c_walk.jpg" >}} 
 &nbsp;
@@ -89,9 +89,9 @@ We could not have asked for a better stay in Sydney. Thank you Val & Johnny.
 {{< figure src="/img/Apr13-19/large_trees.jpg" >}} 
 &nbsp;
 * You don’t get used to drivers on the wrong side of the road. 
-There is no advertising on public transportation!! 
 {{< figure src="/img/Apr13-19/wrong_side.jpg" >}} 
 &nbsp;
+* There is no advertising on public transportation!! 
 * We were overall blown away by Sydney, it’s a top tier city that is worth a visit. We loved the food, the parks, the people and the beaches. 
 {{< figure src="/img/Apr13-19/reading.jpg" >}} 
 &nbsp;
