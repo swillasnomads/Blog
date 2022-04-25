@@ -19,7 +19,7 @@ draft: false
 ## Post 12: Traveling to the other side of the world 
 
 
-Leaving Canada for Australia was just a series of unfortunate events. Here are the bullet notes to our sob story: 
+Leaving Canada for Australia was just a series of unfortunate events. Here are the bullet points to our sob story: 
 
 * We were scheduled to leave for Melbourne on thursday april 7th.
 * Given we had both caught Covid in the states we needed doctors notes clearing us for travel, which was a small headache to obtain.
