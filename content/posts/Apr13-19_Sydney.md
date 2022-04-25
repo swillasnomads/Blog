@@ -47,7 +47,7 @@ We were incredibly fortunate to stay with my oldest friend Valerie, and her part
 {{< figure src="/img/Apr13-19/hyde_park.jpg" >}} 
 &nbsp;
 
-Our first day in Sydney. we went on an epic walking adventure, we toured the lively neighbourhood of Surry hills, walked through Hyde Park, saw Saint Marie’s Cathedral, the botanical gardens and the famous Sydney Opera House. The day was capped off with a delicious dinner on a rooftop patio overlooking the city. 
+Our first day in Sydney, we went on an epic walking adventure, we toured the lively neighbourhood of Surry hills, walked through Hyde Park, saw Saint Marie’s Cathedral, the botanical gardens and the famous Sydney Opera House. The day was capped off with a delicious dinner on a rooftop patio overlooking the city. 
 
 {{< figure src="/img/Apr13-19/sam_opera.jpg" >}} 
 &nbsp;
