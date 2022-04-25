@@ -1,5 +1,5 @@
 ---
-weight: 381
+weight: 299
 showonlyimage: false
 image: "/img/Apr13-19/s_w_opera_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
