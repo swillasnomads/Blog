@@ -21,13 +21,13 @@ draft: false
 
 Leaving Canada for Australia was just a series of unfortunate events. Here are the bullet points to our sob story: 
 
-* We were scheduled to leave for Melbourne on thursday april 7th.
-* Given we had both caught Covid in the states we needed doctors notes clearing us for travel, which was a small headache to obtain.
+* We were scheduled to leave for Melbourne on Thursday april 7th.
+* Given we had both caught covid in the states we each needed a doctor's note clearing us for travel, which were a small headache to obtain.
 * We get to the airport to realize that, duh, we need a visa to enter Australia, but no worries it should only take 10min to obtain.
 * We file for the visa and pay extra for a half hour turn around. 
 * Long story short, the visas don’t show up until well after the counter has closed, and we miss our flights. 
 * Through some small miracle Will is able to rebook us onto a flight to Sydney leaving on the 11th and arriving on the 13th. 
-We fly out on the 11th to Vancouver, have an 8hrs layover before our 15hr flight to Sydney.
+* We fly out on the 11th to Vancouver, have an 8hrs layover before our 15hr flight to Sydney.
 * Once in Vancouver, we’re told by another passenger that the Quantas flight to Sydney has been delayed by 13hrs. I.e. instead of leaving at 10pm on the 11th (for a red eye flight), it would be leaving on the 12th at 11am. 
 * We’re on the phone with Quantas for 2hours with no luck. 
 Quantas has no agents working at the airport in Vancouver (since we’re there 8hrs before the supposed departure of our flight). 
