@@ -42,7 +42,7 @@ Quantas has no agents working at the airport in Vancouver (since we’re there 8
 {{< figure src="/img/Apr13-19/s_w_opera.jpg" >}} 
 &nbsp;
 
-We were incredibly fortunate to stay with my oldest friend Valerie, and her partner Johny in Sydney. Val moved to Sydney two weeks prior to us arriving and so though she played tourguide, she had to keep reminding us she couldn’t answer all our questions 😅.
+We were incredibly fortunate to stay with my oldest friend Valerie, and her partner Johnny in Sydney. Val moved to Sydney two weeks prior to us arriving and so though she played tourguide, she had to keep reminding us she couldn’t answer all our questions 😅.
 
 {{< figure src="/img/Apr13-19/hyde_park.jpg" >}} 
 &nbsp;
@@ -52,7 +52,7 @@ Our first day in Sydney. we went on an epic walking adventure, we toured the liv
 {{< figure src="/img/Apr13-19/sam_opera.jpg" >}} 
 &nbsp;
 
-Val and Johny left us their apartment when they left for an easter weekend to the Blue Mountains, and we can not thank them enough. The apartment is beautiful and with public transportation free for Easter weekend, Will and I made the most of it to tour the city. 
+Val and Johnny left us their apartment when they left for an easter weekend to the Blue Mountains, and we can not thank them enough. The apartment is beautiful and with public transportation free for Easter weekend, Will and I made the most of it to tour the city. 
 
 {{< figure src="/img/Apr13-19/b_c_walk.jpg" >}} 
 &nbsp;
@@ -79,7 +79,7 @@ And on Val’s Birthday, April 17th, we took the train (also free), 2 hours nort
 {{< carousel title=" " >}}
 &nbsp;
 
-We could not have asked for a better stay in Sydney. Thank you Val & Johny. 
+We could not have asked for a better stay in Sydney. Thank you Val & Johnny. 
 
 {{< figure src="/img/Apr13-19/val_johny_prosecco.jpg" >}} 
 &nbsp;
