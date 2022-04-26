@@ -30,7 +30,7 @@ Leaving Canada for Australia was just a series of unfortunate events. Here are t
 * We fly out on the 11th to Vancouver, have an 8hrs layover before our 15hr flight to Sydney.
 * Once in Vancouver, we’re told by another passenger that the Quantas flight to Sydney has been delayed by 13hrs. I.e. instead of leaving at 10pm on the 11th (for a red eye flight), it would be leaving on the 12th at 11am. 
 * We’re on the phone with Quantas for 2hours with no luck. 
-Quantas has no agents working at the airport in Vancouver (since we’re there 8hrs before the supposed departure of our flight). 
+* Naturally, Quantas has no agents working at the airport in Vancouver (since we’re there 8hrs before the supposed departure of our flight). 
 * Our bags are lost somewhere in the back of the airport, since they were checked to go directly to Sydney. 
 * Fast forward, we’re told to come back 3hrs before our flight to talk to a Quantas agent at the desk, if only to retrieve our luggage for the night. So, we head into Vancouver to see Will’s aunt, Lydia.
 * We go back to the airport around 8h30pm and we find agents - yay! 
