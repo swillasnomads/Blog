@@ -37,11 +37,11 @@ Even though you’ll soon hear of how many Australian animals we got to see, thi
 {{< figure src="/img/Apr20-23/gold_coast.jpg" >}} 
 &nbsp;
 
-We mixed in a coastal walk with a view before settling on the beach for a few hours, thank goodness Maria had a parasol to shade our Canadian winter skin from the sun (UV was like a 7 - silly hole in the ozone). We played in the waves, threw a frisbee and learned a new lawn game, Finska, but weren’t good enough to beat Maria (better her than Will, I always say). 
+We mixed in a coastal walk with a view before settling on the beach for a few hours, thank goodness Maria had a parasol to shade our Canadian winter skin from the sun (silly hole in the ozone). We played in the waves, threw a frisbee and learned a new lawn game, Finska, but weren’t good enough to beat Maria (better her than Will, I always say). 
 {{< figure src="/img/Apr20-23/beach.jpg" >}} 
 &nbsp;
 
-If you are to hit up Brisbane on your own Australian trip, we would highly recommend Lone Pine Koala Sanctuary. It was lovely. And especially special to see so many animals I had never seen in person before, from Koalas, to Kangaroos, all the way to Platypuses and Tasmanian Devils. 
+If you are to hit up Brisbane on your own Australian trip, we would highly recommend Lone Pine Koala Sanctuary. It was lovely. And particularly special to see so many animals I had never seen in person before, from Koalas, to Kangaroos, all the way to Platypuses and Tasmanian Devils. 
 {{< figure src="/img/Apr20-23/koala_maria_will.jpg" >}} 
 &nbsp;
 {{< figure src="/img/Apr20-23/kangaroos.jpg" >}} 
