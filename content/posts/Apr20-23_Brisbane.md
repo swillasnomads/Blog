@@ -63,7 +63,7 @@ Beyond the animals, a real bonus of being with a local was being introduced to a
 * **Felons** - it is a massive institution with the largest patio I’ve ever seen along the city’s water
 {{< figure src="/img/Apr20-23/felons.jpg" >}} 
 &nbsp;
-* **Betty’s Burgers** - Will’s favourite 
+* **Betty’s Burgers** - Will’s favourite - shout out to Michael for pushing that we go!
 {{< figure src="/img/Apr20-23/bettys.jpg" >}} 
 &nbsp;
 * **Lone Pine** - Koala Sanctuary
