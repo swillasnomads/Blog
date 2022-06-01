@@ -3,7 +3,7 @@ weight: 293
 showonlyimage: false
 image: "/img/Apr29-May2/all_four_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
-title: "Apr 29 - May 2: Melbourne"
+title: "Apr 29 - May 2: "
 resources:
     - src: "/img/Apr29-May2/sam_dance.jpg"
     - src: "/img/Apr29-May2/fungi_selfie.jpg"
