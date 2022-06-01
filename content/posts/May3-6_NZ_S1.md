@@ -3,7 +3,7 @@ weight: 291
 showonlyimage: false
 image: "/img/May3-6/bed_curio_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
-title: "May 3-6: South Island pt. 1"
+title: "May 3-6: NZ South Island pt. 1"
 resources:
     - src: "/img/May3-6/hooker_valley_track.jpg"
     - src: "/img/May3-6/will_hooker.jpg"
@@ -100,7 +100,7 @@ A lovely waterfall which allowed Will to start working on his long exposure phot
 {{< figure src="/img/May3-6/will_shooting_waterfall.jpg" >}} 
 &nbsp;
 
-##### **Curio Bay**
+##### Curio Bay
 A scenic area of the catlins, that contains a very illusive penguin we didn’t have the pleasure of seeing, but since the cathedral coves had been removed from our schedule we were able to catch the sunset for our first van cooked dinner.
 
 {{< figure src="/img/May3-6/dinner_curio.jpg" >}} 
@@ -116,6 +116,7 @@ This night would be our first night of freedom camping, in essentially a parking
 
 {{< figure src="/img/May3-6/breaky_curio.jpg" >}} 
 &nbsp;
+
 
 
  
