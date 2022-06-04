@@ -21,7 +21,7 @@ resources:
 draft: false
 ---
 
-## Post 17: Au Autumn May Birthday
+## Post 17: An Autumn May Birthday
 
 {{< figure src="/img/May7-11/arrowtown_colours.jpg" >}} 
 &nbsp;
