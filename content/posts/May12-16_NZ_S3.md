@@ -41,7 +41,7 @@ We were spending two nights in Wanaka to allow ourselves a full day to complete 
 {{< figure src="/img/May12-16/roys_all_trails.jpg" >}} 
 &nbsp;
 
-That dreadchury aside, the hike provides the most stunning views for the whole 6 hours. The kind of views that alleviate the mounting pain in your body. 
+That drudgery aside, the hike provides the most stunning views for the whole 6 hours. The kind of views that alleviate the mounting pain in your body. 
 
 {{< figure src="/img/May12-16/roys_view3.jpg" >}} 
 &nbsp;
