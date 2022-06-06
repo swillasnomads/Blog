@@ -1,7 +1,7 @@
 ---
 weight: 287
 showonlyimage: false
-image: "/img/May12-16/sam_sunset_low_qual.jpg"
+image: "/img/May12-16/sam_summit_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
 title: "May 12-16: NZ South Island pt.3"
 resources:
