@@ -51,12 +51,12 @@ It’s my new favourite hike, or maybe tied with Angel’s Landing (if you don�
 {{< figure src="/img/May12-16/sam_summit.jpg" >}} 
 &nbsp;
 
-I had this idea in my head of New Zealand, massive blue lakes surrounded by jutting mountains, and nature for as far as the eye can see. I thought I would see it in Milford Sound, but Milford was another kind of beauty (in all honesty, I was a little disappointed - crazy what expectations can do for your enjoyment of something objectively spectacular). 
+I had this idea in my head of New Zealand, massive blue lakes surrounded by jutting mountains, and nature for as far as the eye can see. I thought I would see it in Milford Sound, but Milford was another kind of beauty (in all honesty, I was a little disappointed with Milford - crazy what expectations can do for your enjoyment of something objectively spectacular). 
 
 {{< figure src="/img/May12-16/sam_will_viewpoint.jpg" >}} 
 &nbsp;
 
-All this to say, Roy’s Peak delivered my fancible image of New Zealand in spades. Will and I listened to podcasts on our grueling walk up, danced to tunes, crossed cows and lots of cow dung, and as is typical of our adventures, had the tippy top to us alone for a 45min lunch (of cheese, broken crackers, an unsliced cucumber and carrot and some nuts). 
+All this to say, Roy’s Peak delivered on my fanciable image of New Zealand in spades. Will and I listened to podcasts on our grueling walk up, danced to tunes, crossed cows and lots of cow dung, and as is typical of our adventures, had the tippy top to us alone for a 45min lunch (of cheese, broken crackers, an unsliced cucumber and carrot and some nuts). 
 
 {{< carousel title="" >}}
 &nbsp;
@@ -78,7 +78,7 @@ Here’s a slightly better picture.
 {{< figure src="/img/May12-16/glacier_land.jpg" >}} 
 &nbsp;
 
-Between May 14th and the 16th, we were driving through glacier country in New Zealand, past Haast Blue Pools, Fox Glacier and Franz Joseph Glacier. 
+Between May 14th and the 16th, we were driving through glacier country in New Zealand, past Haast Blue Pools, Fox Glacier and Franz-Joseph Glacier. 
 
 {{< figure src="/img/May12-16/haast.jpg" >}} 
 &nbsp;
@@ -91,7 +91,7 @@ Our luck with the weather ran out. We were planning on doing a hike at each glac
 {{< figure src="/img/May12-16/leafs.jpg" >}} 
 &nbsp;
 
-We took a walk in the afternoon and played crib to try and lifts Will’s broken spirits at yet another Leaf’s elimination day. 
+We took a walk in the afternoon and played crib to try and lift Will’s broken spirits at yet another Leaf’s elimination day. 
 
 {{< figure src="/img/May12-16/crib.jpg" >}} 
 &nbsp;
@@ -106,7 +106,7 @@ Will’s favourite day hike of the trip, probably even ever. This hike was very 
 {{< figure src="/img/May12-16/roberts_view.jpg" >}} 
 &nbsp;
 
-It was also a 5 star hard rated track on All Trails and though shorter (12.3km) with less elevation gain (540 meters) this trail was expected to take 5h20 mins to complete. We were 2 of 4 people on this amazing trail that day. 
+It was also a 5 star rated track on All Trails and though shorter (12.3km) with less elevation gain (540 meters) this trail was expected to take 5h20 mins to complete. We were 2 of 4 people on this amazing trail that day. 
 
 {{< figure src="/img/May12-16/bridge_roberts.jpg" >}} 
 &nbsp;
