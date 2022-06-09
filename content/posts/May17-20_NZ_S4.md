@@ -16,10 +16,6 @@ resources:
    
     
 
-
-
-
-
 draft: false
 ---
 
