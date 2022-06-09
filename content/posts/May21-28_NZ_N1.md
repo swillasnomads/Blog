@@ -19,12 +19,12 @@ resources:
 draft: false
 ---
 
-## Post 20: Entering Midle Earth
+## Post 20: Entering Middle Earth
 
 {{< figure src="/img/May21-28/shire.jpg" >}} 
 &nbsp;
 
-Our campervan was swapped out for a small toyota hybrid, which was really nice given the price of gas (hovering around 3NZD/L). Fun fact, New Zealand base gas is at 91 octane, and it can go as high as 100 in some places (warned that it’s not good for all cars, lol. 
+Our campervan was swapped out for a small toyota hybrid, which was really nice given the price of gas (hovering around 3NZD/L). Fun fact, New Zealand base gas is at 91 octane, and it can go as high as 100 in some places (warned that it’s not good for all cars, lol). 
 
 We drove straight from Auckland to Matamata, settled into a little garage airbnb, that was very cute, but the bathroom was in another shed, so we had to yet again go outside in the middle of the night to use the bathroom… 
 
@@ -40,7 +40,7 @@ But the magic was to happen the next day.
 {{< figure src="/img/May21-28/sam_wise_house.jpg" >}} 
 &nbsp;
 
-Worth every penny. Assuming you’re a Lord of the Rings fan of course. Which we are. 
+Worth every penny. Assuming you’re a Lord of the Rings fan, of course. Which we are. 
 
 {{< figure src="/img/May21-28/sam_will_hobbit.jpg" >}} 
 &nbsp;
@@ -52,7 +52,7 @@ We were able to tour the set of the Shire. As our official brochure described:
 {{< figure src="/img/May21-28/sam_hobbit.jpg" >}} 
 &nbsp;
 
-{{< figure src="/img/May21-28/hobbit_house_blue.jpg" >}} 
+{{< figure src="/img/May21-28/hobit_house_blue.jpg" >}} 
 &nbsp;
 
 This set which was painstakingly built was then torn down and the land returned to be grazed by the sheep before being rebuilt more permanently in 2009 for the Hobbit Trilogy. The new set is meticulously maintained to this day for tourists' enjoyment. 
@@ -81,12 +81,12 @@ We first checked out the free foot bath in one of Rotorua’s main parks within 
 
 And we culminated our day in a free hot spring 40min outside of Rotorua, where we were greeted by multiple signs telling us not to leave valuables in the car (thankfully, ALL our valuables were in the car). We crossed our fingers and hoped for the best. We scouted out the creek at first to see where we’d be entering. 
 
-We then went back to the car to put on our bathing suits, made our way to the water, and got it. The water was indeed incredibly warm, it was lovely. 
+We then went back to the car to put on our bathing suits, made our way to the water, and got in. The water was indeed incredibly warm, it was lovely. 
 
 {{< figure src="/img/May21-28/hot_spring.jpg" >}} 
 &nbsp;
 
-Getting out was the unpleasant part. We were immediately welcomed by a muddy river bank, and very cold fall air. We had to then walk back to the car, dry ourselves off, put on clothes and get back in the car. It’s at this point that I realized the small that covered by whole body. That lovely sulfur smell was now on my skin and bathing suit. 
+Getting out was the unpleasant part. We were immediately welcomed by a muddy river bank, and very cold fall air. We had to then walk back to the car, dry ourselves off, put on clothes and get back in the car. It’s at this point that I realized the smell that covered by whole body. That lovely sulfur smell was now on my skin and bathing suit. 
 
 Definitely an experience we’ll remember 😂. 
 
@@ -116,7 +116,7 @@ It was quite an adventure even just finding the parking lot after google maps le
 
 But we figured, how hard can it really be, and we kinda have to get back to our car. 
 
-So we set out. On what would be as harrowing an adventure as what Frodo and Sam encountered, I assume. We were the only ones who completed the hike that day and for good reason. Some did the halfway point and warned us that the winds were so strong they had knocked over a 230lbs man. 
+So we set out. On what would be, I assume, as harrowing an adventure as what Frodo and Sam encountered. We were the only ones who completed the hike that day and for good reason. Some did the halfway point and warned us that the winds were so strong they had knocked over a 230lbs man. 
 
 
 {{< figure src="/img/May21-28/sam_crossing_end.jpg" >}} 
@@ -124,7 +124,7 @@ So we set out. On what would be as harrowing an adventure as what Frodo and Sam 
 
 > We have no photos of the most harrowing period of the hike. It was freezing cold, the winds were trying to knock us down and the last thing we were thinking about was reaching for our phones. 
 
-With wind getting progressively stronger as we ascended we took cover behind a boulder to quickly shovel our lunch in our mouth before continuing on, bent sideways into the wind to avoid being blown over. At multiple points we considered turning back, our adrenaline was pumping and it was difficult not to be fearful for our safety. 
+With the wind getting progressively stronger as we ascended we took cover behind a boulder to quickly shovel our lunch in our mouth before continuing on, bent sideways into the wind to avoid being blown over. At multiple points we considered turning back, our adrenaline was pumping and it was difficult not to be fearful for our safety. 
 
 Through sheer will, we got to the summit of the hike, the winds and clouds were so heavy we couldn’t and didn’t stop to read the info card and kept going over the hump to hide behind some more rocks. 
 
@@ -150,7 +150,7 @@ But cheers to crazy life experiences 🍻.
 {{< figure src="/img/May21-28/will_gollum.jpg" >}} 
 &nbsp;
 
-We spend a bit more time driving around the park, hoping to get a glimpse of Mount Doom, since the clouds the previous day hadn’t allowed us to see it. 
+We spent a bit more time driving around the park, hoping to get a glimpse of Mount Doom, since the clouds the previous day hadn’t allowed us to see it. 
 
 And just as we were completing our mini walk to Gollum’s Pool, and heading back for lunch we glimpsed the volcano in all its glory. 
 
@@ -177,7 +177,7 @@ I’ll say this, I’m glad I did it, but I won’t be doing it again. At least 
 {{< figure src="/img/May21-28/cave_cold.jpg" >}} 
 &nbsp;
 
-But we were walking through beautiful caves, floating through some sections of water, jumping backwards off small waterfalls and floating lights off in a glow worm cave (definitely the highlight, it’s like floating in space). 
+But we were walking through beautiful caves, floating through some sections of water, jumping backwards off small waterfalls and enjoying glow worms. 
 
 {{< figure src="/img/May21-28/will_water.jpg" >}} 
 &nbsp;
@@ -193,7 +193,7 @@ From Tudor, to Egyptian, to Japanese and everything in between, we had a blast t
 {{< carousel title="" >}}
 &nbsp;
 
-We pulled into Neville and Lee’s place around 6pm. Neville and Lee are a wonderful couple we met at the holiday park in Akaroa who opened up their home for us while we were in Auckland. They were such incredibly gracious hosts, Lee cooked us up a storm: roast lamb, homemade gravy, roasted kumara and potatoes with greens on the side. Not to mention apple crumble for dessert. We had the pleasure of getting to know them over our one night at their place and subsequently had our best night sleep yet. 
+We pulled into Neville and Lee’s place around 6pm. Neville and Lee are a wonderful couple we met at the holiday park in Akaroa who opened up their home for us while we were in Auckland. They were such incredibly gracious hosts, Lee cooked us up a storm: roast lamb, homemade gravy, roasted kumara and potatoes with greens on the side. Not to mention apple crumble for dessert. We had the pleasure of getting to know them over our one night at their place and subsequently had our best sleep to date. 
 
 {{< figure src="/img/May21-28/lee_neville.jpg" >}} 
 &nbsp;
