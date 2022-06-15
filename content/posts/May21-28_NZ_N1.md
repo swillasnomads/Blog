@@ -3,7 +3,7 @@ weight: 283
 showonlyimage: false
 image: "/img/May21-28/will_blue_pools_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
-title: "May 17-20: NZ North Island"
+title: "May 21-28: NZ North Island"
 resources:
     - src: "/img/May21-28/hamilton.jpg"
     - src: "/img/May21-28/hamilton2.jpg"
