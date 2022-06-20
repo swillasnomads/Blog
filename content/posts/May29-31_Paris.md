@@ -50,13 +50,13 @@ We have two full days in Paris before flying to Biarritz. Both days are started 
 {{< figure src="/img/May29-31/breaky.jpg" >}} 
 &nbsp;
 
-Our first day we rent bikes, and go on a site seeing tour of many majour parisian monuments (of which there are many). We tour the Louvre gardens, the Opera House, the free view point on top of Galerie Lafayette, l’arc de triomphe and the eiffel tower (where we also have a wonderful picnic). 
+Our first day we rent bikes, and go on a site seeing tour of many majour parisian monuments (of which there are many). We tour the Louvre gardens, Notre Dame, the Opera House, the free view point on top of Galerie Lafayette, l’Arc de Triomphe and the Tour Eiffel (where we also have a wonderful picnic). 
 
 {{< carousel title="" >}}
 &nbsp;
 
 
-On day two, we read by the seine, grab lunch with an old friend, Matias at a dumpling house (after cancelling on him for dinner the night before because we both fell asleep before 7pm...) and catch the last set of Fernandez in the French Open on the free rooftop. 
+On day two, we read by the seine, grab lunch with an old friend, Matias, at a great dumpling house (after cancelling on him for dinner the night before because we both fell asleep before 7pm...) and catch the last set of Fernandez in the French Open on the free rooftop. 
 
 {{< figure src="/img/May29-31/tennis.jpg" >}} 
 &nbsp;
