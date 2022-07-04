@@ -1,5 +1,5 @@
 ---
-weight: 288
+weight: 286
 showonlyimage: true
 image: "/img/May7-11/will_boat_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"

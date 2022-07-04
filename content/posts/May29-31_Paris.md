@@ -61,7 +61,7 @@ On day two, we read by the seine, grab lunch with an old friend, Matias, at a gr
 {{< figure src="/img/May29-31/tennis.jpg" >}} 
 &nbsp;
 
-We’re meant to go tour the Louvre in the afternoon, but just like our Met experience, it’s closed on Tuesdays. We decide to go to the catacombs, and that too is out of reach due to poor planning (tickets are all sold out). So we spent our afternoon in the beautiful Luxembourg Gardens.   
+We’re meant to go tour the Louvre in the afternoon, but just like our Met experience, it’s closed on Tuesdays. We decide to go to the Catacombs, and that too is out of reach due to poor planning (tickets are all sold out). So we spent our afternoon in the beautiful Luxembourg Gardens.   
 
 {{< figure src="/img/May29-31/will_lux.jpg" >}} 
 &nbsp;

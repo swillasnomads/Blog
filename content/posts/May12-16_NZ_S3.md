@@ -1,5 +1,5 @@
 ---
-weight: 287
+weight: 283
 showonlyimage: false
 image: "/img/May12-16/sam_summit_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
