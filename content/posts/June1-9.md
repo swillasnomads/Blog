@@ -1,5 +1,5 @@
 ---
-weight: 200
+weight: 198
 showonlyimage: false
 image: "/img/June1-9/will_biarritz_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
