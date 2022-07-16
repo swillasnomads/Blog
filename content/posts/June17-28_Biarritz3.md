@@ -10,6 +10,9 @@ resources:
     - src: "/img/June17-28/san_seb_ice_cream.jpg"
     - src: "/img/June17-28/empty_beach.jpg"
     - src: "/img/June17-28/ice_cream.jpg"
+    - src: "/img/June17-28/sam_surf.jpg"
+    - src: "/img/June17-28/bird.jpg"
+    - src: "/img/June17-28/bayonne_etxe.jpg"
     - src: "/img/June17-28/sam_storm.jpg"
     - src: "/img/June17-28/broken_board.jpg"
     - src: "/img/June17-28/san_seb_sam.jpg"
@@ -64,9 +67,14 @@ We also made it to my favourite bar a couple times, but both times we were raine
 {{< figure src="/img/June17-28/leaving_bar.jpg" >}} 
 &nbsp;
 
-Once we had gotten my mom a wet suit we were able to follow Will’s lead and go swimming in the rain. It was so much fun to enjoy the stormy ocean without being cold. We’re definitely getting our money’s worth out of our suits.
+Once we had gotten my mom a wet suit we were able to follow Will’s lead and go swimming in the rain. 
 
 {{< figure src="/img/June17-28/will_swim.jpg" >}} 
+&nbsp;
+
+It was so much fun to enjoy the stormy ocean without being cold. We’re definitely getting our money’s worth out of our suits.
+
+{{< figure src="/img/June17-28/swim_3.jpg" >}} 
 &nbsp;
 
 Bayonne provided the perfect rainy getaway, a 30 minute bus ride away, we revisited the old medieval downtown, quickly touring the church and settling in for a quick drink before heading back to Biarritz. 
