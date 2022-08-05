@@ -87,7 +87,7 @@ This beautiful town with its history of monarchic/aristocratic tourism blended w
         - Saint Jean de Luz round 3 in the heat. It was so hot we had to leave our appartment and what better way to spend the day then in AC’ed buses going to and from our favourite beach. We spent our time going from the water to the shade. It was honestly lovely.  
         {{< carousel title="" >}}
 &nbsp;
-        - We pushed ourselves to surf in a new location (La Côte Basque as apposed to our normal spot - La Grande Plage). It was a further walk but we’re so happy we tried something new. 
+        - We pushed ourselves to surf in a new location (La Côte Basque as opposed to our normal spot - La Grande Plage). It was a further walk but we’re so happy we tried something new. 
         {{< figure src="/img/June29-July26/cote_basque.jpg" >}} 
 &nbsp;
         - Spending a few of our euros on drinks at my favourite bar (Extola Bibi)
