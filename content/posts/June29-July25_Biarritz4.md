@@ -3,7 +3,7 @@ weight: 190
 showonlyimage: false
 image: "/img/June29-July26/biarritz_house_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
-title: "June17-28: Biarritz pt.4"
+title: "June29-July25: Biarritz pt.4"
 resources:
     - src: "/img/June29-July26/will_beer.jpg"
     - src: "/img/June29-July26/sam_shade.jpg"
