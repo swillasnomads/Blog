@@ -122,7 +122,7 @@ Just outside the city walls you can find St-Mary’s Abbey’s ruins, with its o
 {{< carousel title="" >}}
 &nbsp;
 
-When you find yourself board of London the next time you visit, consider going to York. 
+When you find yourself bored of London the next time you visit, consider going to York. 
 
 {{< figure src="/img/Aug17-23/sam_apple_big_ben.jpg" >}} 
 &nbsp;
