@@ -131,7 +131,7 @@ Sintra is a whimsical city, full of eclectic architecture and, of course, old ru
 {{< figure src="/img/Aug4-11/sintra_romance.jpg" >}} 
 &nbsp;
 
-We toured the Quinta de Regaleira, a 16th century property filled with for lack of a better word, random structures. We went in with the idea of romantic structures and quiet forest walks, but were instead greeted by hundreds of tourists and long lines. I’m not sure we would do it again. Perhaps if you went first thing in the morning. 
+We toured the Quinta de Regaleira, a 16th century property filled with, for lack of a better word, random structures. We went in with the idea of romantic structures and quiet forest walks, but were instead greeted by hundreds of tourists and long lines. I’m not sure we would do it again. Perhaps if you went first thing in the morning. 
 
 {{< figure src="/img/Aug4-11/sintra_taro.jpg" >}} 
 &nbsp;
