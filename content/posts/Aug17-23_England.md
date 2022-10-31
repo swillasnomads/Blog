@@ -1,7 +1,7 @@
 ---
 weight: 182
 showonlyimage: false
-image: "/img/Aug17-23/drinks_in_rain_low_qual.jpg"
+image: "/img/Aug17-23/selfie_big_ben_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
 title: "Aug17-23: England"
 resources:
