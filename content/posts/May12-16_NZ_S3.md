@@ -35,12 +35,6 @@ We drove from Milford Sound to Wanaka on May 12th, with a mandatory stop back in
 
 We were spending two nights in Wanaka to allow ourselves a full day to complete Roy’s Peak Track. A 5 star hike on All Trails reviewed by over a thousand people, estimated to take 6hours to complete, we knew we were in for a treat. The trail is 16.3km of pure switch-back for 1,305 meters of elevation. 
 
-{{< figure src="/img/May12-16/hike_perspective.jpg" >}} 
-&nbsp;
-
-{{< figure src="/img/May12-16/roys_all_trails.jpg" >}} 
-&nbsp;
-
 That drudgery aside, the hike provides the most stunning views for the whole 6 hours. The kind of views that alleviate the mounting pain in your body. 
 
 {{< figure src="/img/May12-16/roys_view3.jpg" >}} 

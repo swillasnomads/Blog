@@ -12,7 +12,6 @@ resources:
     - src: "/img/Apr29-May2/sam_museum.jpg"
     - src: "/img/Apr29-May2/will_campus.jpg"
     - src: "/img/Apr29-May2/sam_door.jpg"
-    - src: "/img/Apr29-May2/will_sip.jpg"
   
 
     
