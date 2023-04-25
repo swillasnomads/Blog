@@ -14,6 +14,7 @@ resources:
     - src: "/img/June1-9/will_balcony.jpg"
     - src: "/img/June1-9/will_bayonne.jpg"
     - src: "/img/June1-9/spanish_window.jpg"
+    - src: "/img/June1-9/sam_bayonne2.jpg"
 
 
 draft: false
