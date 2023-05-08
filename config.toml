@@ -1,5 +1,5 @@
 baseURL = "https://swillasnomads.github.io./"
-#title = "Sam and Will as Nomads"
+title = "Sam and Will as Nomads"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en"
 # Enable comments by entering your Disqus shortname
@@ -12,11 +12,11 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "pink"
   description = "Sam and Will nomad diary"
-  #copyright = "CC BY-NC-SA 4.0"
-  #sidebarAbout = [
-  #  "Taking a break from the grind. Pause du stess quotidien.",
-  #  "Découvrez notre journal virtuel. Checkout our virtual journal."
-  #]
+  copyright = "CC BY-NC-SA 4.0"
+  sidebarAbout = [
+    "Taking a break from the grind. Pause du stess quotidien.",
+    "Découvrez notre journal virtuel. Checkout our virtual journal."
+  ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -41,18 +41,18 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
-  #[[params.navlinks]]
-  #name = "Home"
-  #url = "posts/"
-  #home = true
+  [[params.navlinks]]
+  name = "Home"
+  url = "posts/"
+  home = true
 
-  #[[params.navlinks]]
-  #name = "About"
-  #url = "about/"
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
 
-  #[[params.navlinks]]
-  #name = "Add me to your mailing list!"
-  #url = "contact/"
+  [[params.navlinks]]
+  name = "Add me to your mailing list!"
+  url = "contact/"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
