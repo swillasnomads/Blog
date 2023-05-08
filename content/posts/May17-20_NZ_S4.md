@@ -66,6 +66,9 @@ This Holiday Park gave us access to a small walk up to a waterfall on the premis
 
 We were 2 of 3 people staying at this Holiday Park that night, and low and behold the other was a fellow Canadian named Kate from Nova Scotia. We started chatting over dinner and pretty much spent our evening with her, swapping stories, playing partial jenga and going to see the glow worms. 
 
+{{< figure src="/img/May17-20/glow_worms.jpg" >}} 
+&nbsp;
+
 She’s the one who advised us that if we liked Punakaiki we had to check out Castle Hill on our drive out the next day. 
 
 ### Castle Hill 

@@ -1,5 +1,5 @@
 ---
-weight: 196
+weight: 194
 showonlyimage: false
 image: "/img/June10-16_bonus/group_selfie_low_qual.jpg"
 date: "2022-01-20T19:41:01+05:30"
